@@ -2,7 +2,6 @@
 def divide(a,b):
   if b==0:
     raise Exception("除数不能为0")
-    retun
   return a*1.0/b
 
 if __name__ == "__main__":
